@@ -1,7 +1,6 @@
 Aoba Pessoal 👋 João Vitor na voz.
 
-- Estudando HTML, JavaScript, Python e sempre curiosiando algo sobre hardwares. Além disso, estou desvendando a engine do Roblox Studios: Lua
-- Fun Fact: Eu realmente acho felinos uma espécie muito incrível. Isso vai dos gatinhos (virgins) até a Big Floppa(chad) 🤯
+- Estudando HTML, JavaScript, Python e sempre curiosiando algo sobre hardwares. 🤯
 <div align="center">
   <a href="https://github.com/vso08">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vso08&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
