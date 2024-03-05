@@ -1,6 +1,9 @@
-Aoba Pessoal 👋 João Vitor na voz.
+Olá Pessoal 👋 aqui é o João Vitor.
 
+- Cursando Desenvolvimento de Sistemas integrado ao ensino médio na ETEC - ITU
 - Estudando HTML, JavaScript, Python e sempre curiosiando algo sobre hardwares. 🤯
+
+  
 <div align="center">
   <a href="https://github.com/vso08">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vso08&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
